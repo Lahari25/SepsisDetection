@@ -16,15 +16,17 @@ Steps
 <br>
    Here I was not able to upload .pkl file and dataset due to size limitations. So I hereby provide the google drive link for those files
    [Google Drive](https://drive.google.com/drive/folders/1_VBJfeur0gYlixYLc_V2z3UP2-E6VVnY).
-
+<br>
 <br>
 Interface
 <img src="https://github.com/Lahari25/SepsisDetection/blob/main/Interface.jpg" width="950" height="400">
 <br>
 
 Output1
+<br>
 <img src="https://github.com/Lahari25/SepsisDetection/blob/main/output1.jpg" width="950" height="400">
 <br>
 
 Output2
+<br>
 <img src="https://github.com/Lahari25/SepsisDetection/blob/main/output2.jpg" width="950" height="400">
